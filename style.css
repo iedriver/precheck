@@ -1,3 +1,10 @@
 
-
+a.oka{
+  font-size: 2em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: blueviolet;
+  border: 2px blue solid;
+  padding: 0.3em;
+  background-color: rgb(125, 255, 212);
+}
 
